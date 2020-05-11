@@ -1,7 +1,7 @@
 body{
 
-	background-color: #EDCFC0;
-	font-family: 'Playfair Display', serif;
+	background-color: #AB0068;
+	font-family: 'Fjalla One', sans-serif;
 
 }
 
@@ -10,7 +10,7 @@ body{
 .header{
 
 
-	background-color: #FEF3D2;
+	background-color: #E7D700;
 		margin-left: -100px;
 		margin-right: -100px;
 		height: 15vh;
@@ -34,8 +34,8 @@ body{
 
 p{
 	line-height: 1px;
-	color: #EDCFC0;
-/*	text-shadow: 2px 2px #EDCFC0;*/
+	color: #AB0068;
+/*	text-shadow: 2px 2px #AB0068;*/
 
 }
 
@@ -45,25 +45,30 @@ h1{
 }
 
 .me{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	z-index: 1;
 	color: white;
-	text-shadow: 2px 2px #EDCFC0;
+	text-shadow: 2px 2px #AB0068;
 }
 
 .pcd{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	margin-top: -10px;
 	color: white;
- 	text-shadow: 2px 2px #EDCFC0;
+ 	text-shadow: 2px 2px #AB0068;
 }
+
 
 
 /*header end*/
 
 /* body start*/
+
+.body{
+	margin-top: 100px;
+}
 
 .pbody{
 	display: flex;
@@ -71,41 +76,29 @@ h1{
 }
 
 .projects{
-/*	background-color: pink;*/
+
+	background-color: #FF6C02;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 200px;
+	height: 100px;
 	width: 200px;
 	margin-top: 30px;
-	border: solid 2px white;
+/*	border: solid 2px white;*/
 	text-align: center;
+
 
 }
 
 a{
 	text-decoration: none;
 	color: white;
-	text-shadow: 2px 2px #EDCFC0;
+	text-shadow: 2px 2px #AB0068;
 	font-size: 18px;
 
 
 }
 
-#one{
-	background-color: #C3D3D6;
-	opacity: 50%;
-}
-
-#two{
-	background-color: #E4D5E3;
-	opacity: 50%;
-}
-
-#three{
-	background-color: #D5DBE4;
-	opacity: 50%;
-}
 
 #one:hover{
 	opacity: 100%;
@@ -130,8 +123,9 @@ a:hover{
 
 body{
 
-	background-color: #EDCFC0;
-	font-family: 'Playfair Display', serif;
+	background-color: #AB0068;
+	font-family: 'Fjalla One', sans-serif;
+
 
 }
 
@@ -140,7 +134,7 @@ body{
 .header{
 
 
-	background-color: #FEF3D2;
+	background-color: #E7D700;
 		margin-left: -100px;
 		margin-right: -100px;
 		height: 15vh;
@@ -164,8 +158,8 @@ body{
 
 p{
 	line-height: 1px;
-	color: #EDCFC0;
-/*	text-shadow: 2px 2px #EDCFC0;*/
+	color: #AB0068;
+/*	text-shadow: 2px 2px #AB0068;*/
 
 }
 
@@ -175,19 +169,19 @@ h1{
 }
 
 .me{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	z-index: 1;
 	color: white;
-	text-shadow: 2px 2px #EDCFC0;
+	text-shadow: 2px 2px #AB0068;
 }
 
 .pcd{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	margin-top: -10px;
 	color: white;
- 	text-shadow: 2px 2px #EDCFC0;
+ 	text-shadow: 2px 2px #AB0068;
 }
 
 
@@ -204,14 +198,14 @@ h1{
 }
 
 .projects{
-/*	background-color: pink;*/
+	background-color: #FF6C02;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 200px;
+	height: 100px;
 	width: 200px;
 	margin-top: 30px;
-	border: solid 2px white;
+/*	border: solid 2px white;*/
 	text-align: center;
 
 }
@@ -219,26 +213,13 @@ h1{
 a{
 	text-decoration: none;
 	color: white;
-	text-shadow: 2px 2px #EDCFC0;
+	text-shadow: 2px 2px #AB0068;
 	font-size: 18px;
 
 
 }
 
-#one{
-	background-color: #C3D3D6;
-	opacity: 50%;
-}
 
-#two{
-	background-color: #E4D5E3;
-	opacity: 50%;
-}
-
-#three{
-	background-color: #D5DBE4;
-	opacity: 50%;
-}
 
 #one:hover{
 	opacity: 100%;
@@ -267,8 +248,8 @@ a:hover{
 
 body{
 
-	background-color: #EDCFC0;
-	font-family: 'Playfair Display', serif;
+	background-color: #AB0068;
+	font-family: 'Fjalla One', sans-serif;
 
 }
 
@@ -277,7 +258,7 @@ body{
 .header{
 
 
-	background-color: #FEF3D2;
+	background-color: #E7D700;
 		margin-left: -100px;
 		margin-right: -100px;
 		height: 15vh;
@@ -301,8 +282,8 @@ body{
 
 p{
 	line-height: 1px;
-	color: #EDCFC0;
-/*	text-shadow: 2px 2px #EDCFC0;*/
+	color: #AB0068;
+/*	text-shadow: 2px 2px #AB0068;*/
 
 }
 
@@ -312,19 +293,19 @@ h1{
 }
 
 .me{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	z-index: 1;
 	color: white;
-	text-shadow: 2px 2px #EDCFC0;
+	text-shadow: 2px 2px #AB0068;
 }
 
 .pcd{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: bold;
 	margin-top: -10px;
 	color: white;
- 	text-shadow: 2px 2px #EDCFC0;
+ 	text-shadow: 2px 2px #AB0068;
 }
 
 
@@ -342,14 +323,14 @@ h1{
 }
 
 .projects{
-/*	background-color: pink;*/
+	background-color: #FF6C02;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 200px;
+	height: 100px;
 	width: 200px;
 	margin-top: 30px;
-	border: solid 2px white;
+/*	border: solid 2px white;*/
 	text-align: center;
 
 }
@@ -357,26 +338,13 @@ h1{
 a{
 	text-decoration: none;
 	color: white;
-	text-shadow: 2px 2px #EDCFC0;
+	text-shadow: 2px 2px #AB0068;
 	font-size: 18px;
 
 
 }
 
-#one{
-	background-color: #C3D3D6;
-	opacity: 50%;
-}
 
-#two{
-	background-color: #E4D5E3;
-	opacity: 50%;
-}
-
-#three{
-	background-color: #D5DBE4;
-	opacity: 50%;
-}
 
 #one:hover{
 	opacity: 100%;
